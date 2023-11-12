@@ -2,7 +2,7 @@
   "name": "useform-simple-hook",
   "version": "1.0.2",
   "description": "Easy hook for react to handle form states.",
-  "main": "index.js",
+  "main": "dist/useFormSimpleHook.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
