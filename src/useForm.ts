@@ -6,7 +6,7 @@ interface Props {
     };
 }
 
-const useForm = (initialForm = {}) => {
+export const useForm = (initialForm = {}) => {
     const [formState, setFormState] = useState(initialForm);
 
     useEffect(() => {
@@ -34,5 +34,3 @@ const useForm = (initialForm = {}) => {
         // isFormValid,
     };
 };
-
-export default useForm;
