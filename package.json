@@ -1,6 +1,6 @@
 {
   "name": "useform-simple-hook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easy hook for react to handle form states.",
   "main": "index.js",
   "types": "dist/index.d.ts",
