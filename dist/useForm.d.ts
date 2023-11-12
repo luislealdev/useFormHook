@@ -4,9 +4,9 @@ interface Props {
         value: string;
     };
 }
-export declare const useForm: (initialForm?: {}) => {
+declare const useForm: (initialForm?: {}) => {
     formState: {};
     onInputChange: ({ target }: Props) => void;
     onResetForm: () => void;
 };
-export {};
+export default useForm;
