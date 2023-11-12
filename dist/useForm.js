@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.useForm = void 0;
 const react_1 = require("react");
 const useForm = (initialForm = {}) => {
     const [formState, setFormState] = (0, react_1.useState)(initialForm);
@@ -24,4 +25,4 @@ const useForm = (initialForm = {}) => {
         // isFormValid,
     };
 };
-exports.default = useForm;
+exports.useForm = useForm;
