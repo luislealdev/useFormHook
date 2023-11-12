@@ -1,6 +1,6 @@
 {
   "name": "useform-simple-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy hook for react to handle form states.",
   "main": "index.js",
   "types": "dist/index.d.ts",
@@ -8,8 +8,15 @@
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "files": ["dist"],
-  "keywords": ["react","hook","forms","react hook form"],
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "react",
+    "hook",
+    "forms",
+    "react hook form"
+  ],
   "author": "luislealdev",
   "license": "ISC",
   "peerDependencies": {
