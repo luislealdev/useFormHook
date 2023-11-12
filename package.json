@@ -1,5 +1,5 @@
 {
-  "name": "useform-hook",
+  "name": "useform-simple-hook",
   "version": "1.0.0",
   "description": "Easy hook for react to handle form states.",
   "main": "index.js",
