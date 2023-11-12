@@ -3,7 +3,7 @@
 [![NPM Version Latest](https://img.shields.io/npm/v/useform-simple-hook/latest)](https://www.npmjs.com/package/useform-simple-hook)
 [![NPM Downloads](https://img.shields.io/npm/dm/useform-simple-hook)](https://www.npmjs.com/package/useform-simple-hook)
 
-Easy hook for react to control froms states.
+Easy hook for react to control forms states.
 
 Created by [@luislealdev](https://github.com/luislealdev).
 
