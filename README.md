@@ -44,7 +44,7 @@ On your component call the hook and desestructure your data:
 ```jsx
 const { formState, onInputChange, onResetForm } = useForm(formData);
 
-const { nombre, mensaje, correo }: formData = formState;
+const { name, message, email }: formData = formState;
 ```
 
 On your form use it:
