@@ -53,18 +53,18 @@ On your form use it:
 <input
   required
   name="name"
-  value="{name}"
-  onChange="{onInputChange}"
+  value={name}
+  onChange={onInputChange}
   type="text"
-  placeholder="name"
+  placeholder="Name"
 />
 
 <textarea
   name="message"
-  value="{message}"
-  onChange="{onInputChange}"
+  value={message}
+  onChange={onInputChange}
   className="white-text f-size-16 p-10"
-  placeholder="message"
+  placeholder="Message"
 ></textarea>
 ```
 
